@@ -1,5 +1,32 @@
 {
 	"sites": [{
+		"key": "py_bilibili",
+		"name": "哔哩",
+		"type": 3,
+		"api": "py_bilibili",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/plugin/py_bilibili.py"
+	}, {
+		"key": "py_czspp",
+		"name": "厂长",
+		"type": 3,
+		"api": "py_czspp",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/plugin/py_czspp.py"
+	}, {
+		"key": "py_zxzj",
+		"name": "在线之家",
+		"type": 3,
+		"api": "py_zxzj",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/plugin/py_zxzj.py"
+	}, {
 		"key": "py_voflix",
 		"name": "Voflix",
 		"type": 3,
@@ -8,7 +35,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "file:///storage/emulated/0/plugin/py_voflix.py"
-	},{
+	}, {
 		"key": "py_gimytv",
 		"name": "剧迷",
 		"type": 3,
@@ -17,7 +44,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "file:///storage/emulated/0/plugin/py_gimytv.py"
-	},{
+	}, {
 		"key": "py_genmov",
 		"name": "跟剧",
 		"type": 3,
